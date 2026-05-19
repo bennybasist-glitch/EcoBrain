@@ -1,0 +1,8 @@
+# Excluir carpetas de compilación y distribución de NetBeans
+/build/
+/dist/
+nbproject/private/
+
+# Archivos de sistema o temporales
+*.log
+*.class
